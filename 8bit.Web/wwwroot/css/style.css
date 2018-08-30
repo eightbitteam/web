@@ -547,7 +547,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   flex-direction: column;
   text-align: center;
   border-radius: 50%;
-  border: 2px solid #2dc997;
 }
 
 #about .about-container .icon-box .icon i {
